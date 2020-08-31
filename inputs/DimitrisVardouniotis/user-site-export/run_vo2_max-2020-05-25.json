@@ -1,0 +1,10 @@
+[{
+  "dateTime" : "06/07/20 13:10:44",
+  "value" : {
+    "exerciseId" : 31775191638,
+    "runVO2Max" : 56.85231,
+    "runVO2MaxError" : 5.040170000000001,
+    "filteredRunVO2Max" : 57.776410000000006,
+    "filteredRunVO2MaxError" : 2.58705
+  }
+}]

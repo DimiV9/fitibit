@@ -1,0 +1,6 @@
+timestamp,event_name,email,location,ip,outcome,reason
+Wed Jun 17 07:02:40 UTC 2020,Update profile data,dim.vardouniotis@gmail.com,"Lamia, 06, Greece",94.69.82.237,SUCCESS,
+Mon Mar 23 16:30:51 UTC 2020,Update profile data,dim.vardouniotis@gmail.com,"Wandsworth, WND, United Kingdom",2.120.97.52,SUCCESS,
+Mon Mar 23 16:30:50 UTC 2020,Update profile data,dim.vardouniotis@gmail.com,"Wandsworth, WND, United Kingdom",2.120.97.52,SUCCESS,
+Wed Feb 26 09:36:58 UTC 2020,Update profile data,dim.vardouniotis@gmail.com,"London, ENG, United Kingdom",80.169.174.154,SUCCESS,
+Thu Feb 20 19:35:45 UTC 2020,Update profile data,dim.vardouniotis@gmail.com,"United Kingdom",82.132.222.188,SUCCESS,

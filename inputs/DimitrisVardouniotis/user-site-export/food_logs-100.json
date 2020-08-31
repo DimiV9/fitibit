@@ -1,0 +1,2001 @@
+[{
+  "logId" : 14786715074,
+  "loggedFood" : {
+    "foodId" : 537162901,
+    "locale" : "en_GB",
+    "name" : "Strawberries",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [21174,21175,22688,22689,20929,20930,20840,20841,22690,22691,22692,22693,22694,226,180,147,389],
+    "calories" : 12,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 22692,
+      "name" : "medium (3.25 cm dia)",
+      "plural" : "medium (3.25 cm dia)"
+    },
+    "mealTypeId" : 6
+  },
+  "logDate" : "2018-06-19",
+  "favorite" : false
+},{
+  "logId" : 14787080424,
+  "loggedFood" : {
+    "foodId" : 537164592,
+    "locale" : "en_GB",
+    "name" : "Unsweetened Almond Milk",
+    "brand" : "Alpro",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,209,189,128,364,349,91,256,279,401],
+    "calories" : 33,
+    "amount" : 250.0,
+    "unit" : {
+      "id" : 209,
+      "name" : "ml",
+      "plural" : "mls"
+    },
+    "mealTypeId" : 6
+  },
+  "logDate" : "2018-06-19",
+  "favorite" : false
+},{
+  "logId" : 14788216581,
+  "loggedFood" : {
+    "foodId" : 545347085,
+    "locale" : "en_GB",
+    "name" : "Sweet Potato Wedges",
+    "brand" : "Nando's",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,380,226,180,147,389],
+    "calories" : 71,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 380,
+      "name" : "wedge",
+      "plural" : "wedges"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2018-06-19",
+  "favorite" : false
+},{
+  "logId" : 14787861833,
+  "loggedFood" : {
+    "foodId" : 537211341,
+    "locale" : "en_GB",
+    "name" : "Chicken Butterfly",
+    "brand" : "Nando's",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 310,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2018-06-19",
+  "favorite" : false
+},{
+  "logId" : 14787861852,
+  "loggedFood" : {
+    "foodId" : 707887463,
+    "locale" : "en_GB",
+    "name" : "Chargrilled Veg",
+    "brand" : "Nando's",
+    "accessLevel" : "PUBLIC",
+    "units" : [304],
+    "calories" : 95,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2018-06-19",
+  "favorite" : false
+},{
+  "logId" : 14787418734,
+  "loggedFood" : {
+    "foodId" : 538574177,
+    "locale" : "en_GB",
+    "name" : "Macho Peas (Regular)",
+    "brand" : "Nando's",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 168,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2018-06-19",
+  "favorite" : false
+},{
+  "logId" : 14772128412,
+  "loggedFood" : {
+    "foodId" : 550002853,
+    "locale" : "en_GB",
+    "name" : "Tim Tam Original",
+    "brand" : "Arnott's",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,70,226,180,147,389],
+    "calories" : 95,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 70,
+      "name" : "biscuit",
+      "plural" : "biscuits"
+    },
+    "mealTypeId" : 4
+  },
+  "logDate" : "2018-06-19",
+  "favorite" : false
+},{
+  "logId" : 14773506280,
+  "loggedFood" : {
+    "foodId" : 740696907,
+    "name" : "Pineapple Pleasure smoothie",
+    "brand" : "Crussh",
+    "accessLevel" : "PRIVATE",
+    "units" : [209,189,128,364,349,91,256,279,401],
+    "calories" : 224,
+    "amount" : 339.0,
+    "unit" : {
+      "id" : 209,
+      "name" : "ml",
+      "plural" : "mls"
+    },
+    "mealTypeId" : 4,
+    "creatorEncodedId" : "6N8QKV"
+  },
+  "logDate" : "2018-06-19",
+  "favorite" : false
+},{
+  "logId" : 14772186118,
+  "loggedFood" : {
+    "foodId" : 537141458,
+    "locale" : "en_GB",
+    "name" : "Minced Beef (Cooked)",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [20882,20883,20884,20885,20886,20762,20763,20887,20888,20889,20890,20891,20892,20893,226,180,147,389],
+    "calories" : 224,
+    "amount" : 0.66,
+    "unit" : {
+      "id" : 20763,
+      "name" : "cup cooked",
+      "plural" : "cup cooked"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2018-06-19",
+  "favorite" : false
+},{
+  "logId" : 14773708611,
+  "loggedFood" : {
+    "foodId" : 537141812,
+    "locale" : "en_GB",
+    "name" : "Wholemeal Pasta",
+    "brand" : "Tesco",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,20954,226,180,147,389],
+    "calories" : 245,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2018-06-19",
+  "favorite" : false
+},{
+  "logId" : 14773177128,
+  "loggedFood" : {
+    "foodId" : 537164137,
+    "locale" : "en_GB",
+    "name" : "Weetabix",
+    "brand" : "Weetabix",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,70,226,180,147,389],
+    "calories" : 136,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2018-06-19",
+  "favorite" : false
+},{
+  "logId" : 14772030570,
+  "loggedFood" : {
+    "foodId" : 537182868,
+    "locale" : "en_GB",
+    "name" : "Semi-Skimmed Milk",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [20969,209,189,128,364,349,91,256,279,401,226,180,147,389],
+    "calories" : 74,
+    "amount" : 150.0,
+    "unit" : {
+      "id" : 209,
+      "name" : "ml",
+      "plural" : "mls"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2018-06-19",
+  "favorite" : false
+},{
+  "logId" : 14773572258,
+  "loggedFood" : {
+    "foodId" : 728043956,
+    "locale" : "en_GB",
+    "name" : "ISO Whey Zero",
+    "brand" : "BioTech USA",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 94,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2018-06-19",
+  "favorite" : false
+},{
+  "logId" : 14761096997,
+  "loggedFood" : {
+    "foodId" : 728043956,
+    "locale" : "en_GB",
+    "name" : "ISO Whey Zero",
+    "brand" : "BioTech USA",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 94,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 6
+  },
+  "logDate" : "2018-06-18",
+  "favorite" : false
+},{
+  "logId" : 14772281160,
+  "loggedFood" : {
+    "foodId" : 537164592,
+    "locale" : "en_GB",
+    "name" : "Unsweetened Almond Milk",
+    "brand" : "Alpro",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,209,189,128,364,349,91,256,279,401],
+    "calories" : 33,
+    "amount" : 250.0,
+    "unit" : {
+      "id" : 209,
+      "name" : "ml",
+      "plural" : "mls"
+    },
+    "mealTypeId" : 6
+  },
+  "logDate" : "2018-06-18",
+  "favorite" : false
+},{
+  "logId" : 14773668705,
+  "loggedFood" : {
+    "foodId" : 537162901,
+    "locale" : "en_GB",
+    "name" : "Strawberries",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [21174,21175,22688,22689,20929,20930,20840,20841,22690,22691,22692,22693,22694,226,180,147,389],
+    "calories" : 24,
+    "amount" : 6.0,
+    "unit" : {
+      "id" : 22692,
+      "name" : "medium (3.25 cm dia)",
+      "plural" : "medium (3.25 cm dia)"
+    },
+    "mealTypeId" : 6
+  },
+  "logDate" : "2018-06-18",
+  "favorite" : false
+},{
+  "logId" : 14773427771,
+  "loggedFood" : {
+    "foodId" : 537177147,
+    "locale" : "en_GB",
+    "name" : "Cherry Tomatoes",
+    "brand" : "Sainsbury's",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 12,
+    "amount" : 60.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2018-06-18",
+  "favorite" : false
+},{
+  "logId" : 14771722377,
+  "loggedFood" : {
+    "foodId" : 537146117,
+    "locale" : "en_GB",
+    "name" : "Dark Rye Crispbread",
+    "brand" : "Ryvita",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,311,226,180,147,389],
+    "calories" : 68,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2018-06-18",
+  "favorite" : false
+},{
+  "logId" : 14773687984,
+  "loggedFood" : {
+    "foodId" : 537184002,
+    "locale" : "en_GB",
+    "name" : "Avocado",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [8,20929,20930,20951,20952,23787,23788,311,20852,20853,20982,226,180,147,389],
+    "calories" : 200,
+    "amount" : 125.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2018-06-18",
+  "favorite" : false
+},{
+  "logId" : 14771751151,
+  "loggedFood" : {
+    "foodId" : 538566148,
+    "locale" : "en_GB",
+    "name" : "Baked Beans",
+    "brand" : "Heinz",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 312,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2018-06-18",
+  "favorite" : false
+},{
+  "logId" : 14772444882,
+  "loggedFood" : {
+    "foodId" : 537184045,
+    "locale" : "en_GB",
+    "name" : "Banana",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [23174,23176,23177,20929,20930,20921,20922,20852,20853,311,21458,23175,23178,226,180,147,389],
+    "calories" : 105,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 23174,
+      "name" : "medium (18 cm - 20 cm long)",
+      "plural" : "medium (18 cm - 20 cm long)"
+    },
+    "mealTypeId" : 4
+  },
+  "logDate" : "2018-06-18",
+  "favorite" : false
+},{
+  "logId" : 14763083059,
+  "loggedFood" : {
+    "foodId" : 537141458,
+    "locale" : "en_GB",
+    "name" : "Minced Beef (Cooked)",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [20882,20883,20884,20885,20886,20762,20763,20887,20888,20889,20890,20891,20892,20893,226,180,147,389],
+    "calories" : 224,
+    "amount" : 0.66,
+    "unit" : {
+      "id" : 20763,
+      "name" : "cup cooked",
+      "plural" : "cup cooked"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2018-06-18",
+  "favorite" : false
+},{
+  "logId" : 14761253180,
+  "loggedFood" : {
+    "foodId" : 537141812,
+    "locale" : "en_GB",
+    "name" : "Wholemeal Pasta",
+    "brand" : "Tesco",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,20954,226,180,147,389],
+    "calories" : 245,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2018-06-18",
+  "favorite" : false
+},{
+  "logId" : 14757124385,
+  "loggedFood" : {
+    "foodId" : 537182868,
+    "locale" : "en_GB",
+    "name" : "Semi-Skimmed Milk",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [20969,209,189,128,364,349,91,256,279,401,226,180,147,389],
+    "calories" : 74,
+    "amount" : 150.0,
+    "unit" : {
+      "id" : 209,
+      "name" : "ml",
+      "plural" : "mls"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2018-06-18",
+  "favorite" : false
+},{
+  "logId" : 14757047347,
+  "loggedFood" : {
+    "foodId" : 537164137,
+    "locale" : "en_GB",
+    "name" : "Weetabix",
+    "brand" : "Weetabix",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,70,226,180,147,389],
+    "calories" : 136,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2018-06-18",
+  "favorite" : false
+},{
+  "logId" : 14773803447,
+  "loggedFood" : {
+    "foodId" : 728043956,
+    "locale" : "en_GB",
+    "name" : "ISO Whey Zero",
+    "brand" : "BioTech USA",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 94,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2018-06-18",
+  "favorite" : false
+},{
+  "logId" : 14755144966,
+  "loggedFood" : {
+    "foodId" : 728043956,
+    "locale" : "en_GB",
+    "name" : "ISO Whey Zero",
+    "brand" : "BioTech USA",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 94,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 6
+  },
+  "logDate" : "2018-06-17",
+  "favorite" : false
+},{
+  "logId" : 14756155019,
+  "loggedFood" : {
+    "foodId" : 537201117,
+    "locale" : "en_GB",
+    "name" : "Lightly Sea Salted Popcorn",
+    "brand" : "Propercorn",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,11,226,180,147,389],
+    "calories" : 58,
+    "amount" : 0.66,
+    "unit" : {
+      "id" : 11,
+      "name" : "bag",
+      "plural" : "bags"
+    },
+    "mealTypeId" : 6
+  },
+  "logDate" : "2018-06-17",
+  "favorite" : false
+},{
+  "logId" : 14756271809,
+  "loggedFood" : {
+    "foodId" : 537164592,
+    "locale" : "en_GB",
+    "name" : "Unsweetened Almond Milk",
+    "brand" : "Alpro",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,209,189,128,364,349,91,256,279,401],
+    "calories" : 33,
+    "amount" : 250.0,
+    "unit" : {
+      "id" : 209,
+      "name" : "ml",
+      "plural" : "mls"
+    },
+    "mealTypeId" : 6
+  },
+  "logDate" : "2018-06-17",
+  "favorite" : false
+},{
+  "logId" : 14755635926,
+  "loggedFood" : {
+    "foodId" : 537162901,
+    "locale" : "en_GB",
+    "name" : "Strawberries",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [21174,21175,22688,22689,20929,20930,20840,20841,22690,22691,22692,22693,22694,226,180,147,389],
+    "calories" : 8,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 22692,
+      "name" : "medium (3.25 cm dia)",
+      "plural" : "medium (3.25 cm dia)"
+    },
+    "mealTypeId" : 6
+  },
+  "logDate" : "2018-06-17",
+  "favorite" : false
+},{
+  "logId" : 14756116481,
+  "loggedFood" : {
+    "foodId" : 537240331,
+    "locale" : "en_GB",
+    "name" : "Tortilla Wraps",
+    "brand" : "Netto",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,385],
+    "calories" : 86,
+    "amount" : 0.5,
+    "unit" : {
+      "id" : 385,
+      "name" : "wrap",
+      "plural" : "wraps"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2018-06-17",
+  "favorite" : false
+},{
+  "logId" : 14757388107,
+  "loggedFood" : {
+    "foodId" : 537184002,
+    "locale" : "en_GB",
+    "name" : "Avocado",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [8,20929,20930,20951,20952,23787,23788,311,20852,20853,20982,226,180,147,389],
+    "calories" : 224,
+    "amount" : 140.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2018-06-17",
+  "favorite" : false
+},{
+  "logId" : 14757214812,
+  "loggedFood" : {
+    "foodId" : 537228768,
+    "locale" : "en_GB",
+    "name" : "Cherry Tomatoes",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [54,21017,91,256,279,226,180,147,389],
+    "calories" : 9,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 54,
+      "name" : "cherry",
+      "plural" : "cherries"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2018-06-17",
+  "favorite" : false
+},{
+  "logId" : 14757089434,
+  "loggedFood" : {
+    "foodId" : 537185436,
+    "locale" : "en_GB",
+    "name" : "Chicken Breast Fillets",
+    "brand" : "Sainsbury's",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 69,
+    "amount" : 50.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2018-06-17",
+  "favorite" : false
+},{
+  "logId" : 14756309153,
+  "loggedFood" : {
+    "foodId" : 537146117,
+    "locale" : "en_GB",
+    "name" : "Dark Rye Crispbread",
+    "brand" : "Ryvita",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,311,226,180,147,389],
+    "calories" : 136,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2018-06-17",
+  "favorite" : false
+},{
+  "logId" : 14755333131,
+  "loggedFood" : {
+    "foodId" : 537196160,
+    "locale" : "en_GB",
+    "name" : "Rocket",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [181,91,256,279,226,180,147,389],
+    "calories" : 19,
+    "amount" : 55.5,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2018-06-17",
+  "favorite" : false
+},{
+  "logId" : 14757368876,
+  "loggedFood" : {
+    "foodId" : 537196160,
+    "locale" : "en_GB",
+    "name" : "Rocket",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [181,91,256,279,226,180,147,389],
+    "calories" : 3,
+    "amount" : 10.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2018-06-17",
+  "favorite" : false
+},{
+  "logId" : 14755833968,
+  "loggedFood" : {
+    "foodId" : 537243562,
+    "locale" : "en_GB",
+    "name" : "Balsamic Vinegar of Modena",
+    "brand" : "Tesco",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,209,189,128,364,349,91,256,279,401],
+    "calories" : 40,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2018-06-17",
+  "favorite" : false
+},{
+  "logId" : 14756017016,
+  "loggedFood" : {
+    "foodId" : 537161502,
+    "locale" : "en_GB",
+    "name" : "Egg (Whole)",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [179,22601,22071,22070,204,319,226,180,147,389],
+    "calories" : 130,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 204,
+      "name" : "medium",
+      "plural" : "mediums"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2018-06-17",
+  "favorite" : false
+},{
+  "logId" : 14750320309,
+  "loggedFood" : {
+    "foodId" : 537150374,
+    "locale" : "en_GB",
+    "name" : "Sweetpotato",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [21877,21925,21926,20921,20922,21590,226,180,147,389],
+    "calories" : 152,
+    "amount" : 1.12,
+    "unit" : {
+      "id" : 21877,
+      "name" : "medium (5 cm dia, 13 cm long, raw)",
+      "plural" : "medium (5 cm dia, 13 cm long, raw)"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2018-06-17",
+  "favorite" : false
+},{
+  "logId" : 14751544021,
+  "loggedFood" : {
+    "foodId" : 537184002,
+    "locale" : "en_GB",
+    "name" : "Avocado",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [8,20929,20930,20951,20952,23787,23788,311,20852,20853,20982,226,180,147,389],
+    "calories" : 200,
+    "amount" : 125.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2018-06-17",
+  "favorite" : false
+},{
+  "logId" : 14751370482,
+  "loggedFood" : {
+    "foodId" : 537185436,
+    "locale" : "en_GB",
+    "name" : "Chicken Breast Fillets",
+    "brand" : "Sainsbury's",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 221,
+    "amount" : 160.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2018-06-17",
+  "favorite" : false
+},{
+  "logId" : 14751630453,
+  "loggedFood" : {
+    "foodId" : 537176048,
+    "locale" : "en_GB",
+    "name" : "Coconut Milk",
+    "brand" : "Alpro",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,209,189,128,364,349,91,256,279,401],
+    "calories" : 57,
+    "amount" : 285.0,
+    "unit" : {
+      "id" : 209,
+      "name" : "ml",
+      "plural" : "mls"
+    },
+    "mealTypeId" : 2
+  },
+  "logDate" : "2018-06-17",
+  "favorite" : false
+},{
+  "logId" : 14755766429,
+  "loggedFood" : {
+    "foodId" : 728043956,
+    "locale" : "en_GB",
+    "name" : "ISO Whey Zero",
+    "brand" : "BioTech USA",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 94,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 2
+  },
+  "logDate" : "2018-06-17",
+  "favorite" : false
+},{
+  "logId" : 14751042983,
+  "loggedFood" : {
+    "foodId" : 537162901,
+    "locale" : "en_GB",
+    "name" : "Strawberries",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [21174,21175,22688,22689,20929,20930,20840,20841,22690,22691,22692,22693,22694,226,180,147,389],
+    "calories" : 8,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 22692,
+      "name" : "medium (3.25 cm dia)",
+      "plural" : "medium (3.25 cm dia)"
+    },
+    "mealTypeId" : 2
+  },
+  "logDate" : "2018-06-17",
+  "favorite" : false
+},{
+  "logId" : 14755882091,
+  "loggedFood" : {
+    "foodId" : 538568184,
+    "locale" : "en_GB",
+    "name" : "Soft Multiseed Wholemeal Farmhouse Batch",
+    "brand" : "Sainsbury's Taste The Difference",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,311,226,180,147,389],
+    "calories" : 275,
+    "amount" : 2.33,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2018-06-17",
+  "favorite" : false
+},{
+  "logId" : 14751409020,
+  "loggedFood" : {
+    "foodId" : 537145399,
+    "locale" : "en_GB",
+    "name" : "Tahini",
+    "brand" : "Cypressa",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 256,
+    "amount" : 40.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2018-06-17",
+  "favorite" : false
+},{
+  "logId" : 14751004359,
+  "loggedFood" : {
+    "foodId" : 694226202,
+    "locale" : "en_GB",
+    "name" : "Honey",
+    "brand" : "SPAR",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 152,
+    "amount" : 50.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2018-06-17",
+  "favorite" : false
+},{
+  "logId" : 14751488605,
+  "loggedFood" : {
+    "foodId" : 740594103,
+    "name" : "Bramble",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [304],
+    "calories" : 255,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 6,
+    "creatorEncodedId" : "6N8QKV"
+  },
+  "logDate" : "2018-06-16",
+  "favorite" : false
+},{
+  "logId" : 14750785388,
+  "loggedFood" : {
+    "foodId" : 728058236,
+    "locale" : "en_GB",
+    "name" : "Aperol Spritz",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [103,22102,209,189,128,364,349,91,256,279,401,226,180,147,389],
+    "calories" : 250,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 103,
+      "name" : "drink",
+      "plural" : "drinks"
+    },
+    "mealTypeId" : 6
+  },
+  "logDate" : "2018-06-16",
+  "favorite" : false
+},{
+  "logId" : 14747936966,
+  "loggedFood" : {
+    "foodId" : 537202317,
+    "locale" : "en_GB",
+    "name" : "Peanuts",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 166,
+    "amount" : 0.2,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "logDate" : "2018-06-16",
+  "favorite" : false
+},{
+  "logId" : 14750178456,
+  "loggedFood" : {
+    "foodId" : 709898243,
+    "locale" : "en_GB",
+    "name" : "Hamburger",
+    "brand" : "Five Guys",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,39,226,180,147,389],
+    "calories" : 700,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2018-06-16",
+  "favorite" : false
+},{
+  "logId" : 14750698631,
+  "loggedFood" : {
+    "foodId" : 542264393,
+    "locale" : "en_GB",
+    "name" : "Chia Seeds",
+    "brand" : "Chia Bia",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 25,
+    "amount" : 6.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 4
+  },
+  "logDate" : "2018-06-16",
+  "favorite" : false
+},{
+  "logId" : 14749485467,
+  "loggedFood" : {
+    "foodId" : 537184045,
+    "locale" : "en_GB",
+    "name" : "Banana",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [23174,23176,23177,20929,20930,20921,20922,20852,20853,311,21458,23175,23178,226,180,147,389],
+    "calories" : 105,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 23174,
+      "name" : "medium (18 cm - 20 cm long)",
+      "plural" : "medium (18 cm - 20 cm long)"
+    },
+    "mealTypeId" : 4
+  },
+  "logDate" : "2018-06-16",
+  "favorite" : false
+},{
+  "logId" : 14750197672,
+  "loggedFood" : {
+    "foodId" : 537176048,
+    "locale" : "en_GB",
+    "name" : "Coconut Milk",
+    "brand" : "Alpro",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,209,189,128,364,349,91,256,279,401],
+    "calories" : 57,
+    "amount" : 285.0,
+    "unit" : {
+      "id" : 209,
+      "name" : "ml",
+      "plural" : "mls"
+    },
+    "mealTypeId" : 4
+  },
+  "logDate" : "2018-06-16",
+  "favorite" : false
+},{
+  "logId" : 14750737093,
+  "loggedFood" : {
+    "foodId" : 537162901,
+    "locale" : "en_GB",
+    "name" : "Strawberries",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [21174,21175,22688,22689,20929,20930,20840,20841,22690,22691,22692,22693,22694,226,180,147,389],
+    "calories" : 8,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 22692,
+      "name" : "medium (3.25 cm dia)",
+      "plural" : "medium (3.25 cm dia)"
+    },
+    "mealTypeId" : 4
+  },
+  "logDate" : "2018-06-16",
+  "favorite" : false
+},{
+  "logId" : 14749639001,
+  "loggedFood" : {
+    "foodId" : 537185436,
+    "locale" : "en_GB",
+    "name" : "Chicken Breast Fillets",
+    "brand" : "Sainsbury's",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 221,
+    "amount" : 160.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2018-06-16",
+  "favorite" : false
+},{
+  "logId" : 14747792044,
+  "loggedFood" : {
+    "foodId" : 537177147,
+    "locale" : "en_GB",
+    "name" : "Cherry Tomatoes",
+    "brand" : "Sainsbury's",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 12,
+    "amount" : 60.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2018-06-16",
+  "favorite" : false
+},{
+  "logId" : 14750216930,
+  "loggedFood" : {
+    "foodId" : 537145853,
+    "locale" : "en_GB",
+    "name" : "Lettuce",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [21348,21349,20977,20978,20979,20912,21482,20914,21254,21040,226,180,147,389],
+    "calories" : 10,
+    "amount" : 10.0,
+    "unit" : {
+      "id" : 20978,
+      "name" : "medium leaf",
+      "plural" : "medium leaf"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2018-06-16",
+  "favorite" : false
+},{
+  "logId" : 14750245872,
+  "loggedFood" : {
+    "foodId" : 537184002,
+    "locale" : "en_GB",
+    "name" : "Avocado",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [8,20929,20930,20951,20952,23787,23788,311,20852,20853,20982,226,180,147,389],
+    "calories" : 205,
+    "amount" : 128.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2018-06-16",
+  "favorite" : false
+},{
+  "logId" : 14745869897,
+  "loggedFood" : {
+    "foodId" : 537186084,
+    "locale" : "en_GB",
+    "name" : "Spinach, Feta & Toasted Pine Nut Pie",
+    "brand" : "Higgidy",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,249,226,180,147,389],
+    "calories" : 152,
+    "amount" : 60.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 2
+  },
+  "logDate" : "2018-06-16",
+  "favorite" : false
+},{
+  "logId" : 14742077798,
+  "loggedFood" : {
+    "foodId" : 537162901,
+    "locale" : "en_GB",
+    "name" : "Strawberries",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [21174,21175,22688,22689,20929,20930,20840,20841,22690,22691,22692,22693,22694,226,180,147,389],
+    "calories" : 12,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 22692,
+      "name" : "medium (3.25 cm dia)",
+      "plural" : "medium (3.25 cm dia)"
+    },
+    "mealTypeId" : 2
+  },
+  "logDate" : "2018-06-16",
+  "favorite" : false
+},{
+  "logId" : 14751189661,
+  "loggedFood" : {
+    "foodId" : 728043956,
+    "locale" : "en_GB",
+    "name" : "ISO Whey Zero",
+    "brand" : "BioTech USA",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 94,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 2
+  },
+  "logDate" : "2018-06-16",
+  "favorite" : false
+},{
+  "logId" : 14744694445,
+  "loggedFood" : {
+    "foodId" : 537176048,
+    "locale" : "en_GB",
+    "name" : "Coconut Milk",
+    "brand" : "Alpro",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,209,189,128,364,349,91,256,279,401],
+    "calories" : 57,
+    "amount" : 285.0,
+    "unit" : {
+      "id" : 209,
+      "name" : "ml",
+      "plural" : "mls"
+    },
+    "mealTypeId" : 2
+  },
+  "logDate" : "2018-06-16",
+  "favorite" : false
+},{
+  "logId" : 14749706242,
+  "loggedFood" : {
+    "foodId" : 541908193,
+    "locale" : "en_GB",
+    "name" : "Gouda Slices",
+    "brand" : "Tesco",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,311,226,180,147,389],
+    "calories" : 182,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2018-06-16",
+  "favorite" : false
+},{
+  "logId" : 14751613347,
+  "loggedFood" : {
+    "foodId" : 537240331,
+    "locale" : "en_GB",
+    "name" : "Tortilla Wraps",
+    "brand" : "Netto",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,385],
+    "calories" : 172,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2018-06-16",
+  "favorite" : false
+},{
+  "logId" : 14751642346,
+  "loggedFood" : {
+    "foodId" : 537158516,
+    "locale" : "en_GB",
+    "name" : "Wafer Thin Ham",
+    "brand" : "Sainsbury's Basics",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 108,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2018-06-16",
+  "favorite" : false
+},{
+  "logId" : 14740735269,
+  "loggedFood" : {
+    "foodId" : 537227468,
+    "locale" : "en_GB",
+    "name" : "Chocolate Rice Cakes",
+    "brand" : "Aldi",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,20945,226,180,147,389],
+    "calories" : 82,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 6
+  },
+  "logDate" : "2018-06-15",
+  "favorite" : false
+},{
+  "logId" : 14740744805,
+  "loggedFood" : {
+    "foodId" : 537176048,
+    "locale" : "en_GB",
+    "name" : "Coconut Milk",
+    "brand" : "Alpro",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,209,189,128,364,349,91,256,279,401],
+    "calories" : 57,
+    "amount" : 285.0,
+    "unit" : {
+      "id" : 209,
+      "name" : "ml",
+      "plural" : "mls"
+    },
+    "mealTypeId" : 6
+  },
+  "logDate" : "2018-06-15",
+  "favorite" : false
+},{
+  "logId" : 14740764323,
+  "loggedFood" : {
+    "foodId" : 728043956,
+    "locale" : "en_GB",
+    "name" : "ISO Whey Zero",
+    "brand" : "BioTech USA",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 94,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 6
+  },
+  "logDate" : "2018-06-15",
+  "favorite" : false
+},{
+  "logId" : 14740418760,
+  "loggedFood" : {
+    "foodId" : 537187169,
+    "locale" : "en_GB",
+    "name" : "Dried Apricot",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [157,21816,91,256,279,226,180,147,389],
+    "calories" : 24,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 157,
+      "name" : "half",
+      "plural" : "halves"
+    },
+    "mealTypeId" : 6
+  },
+  "logDate" : "2018-06-15",
+  "favorite" : false
+},{
+  "logId" : 14739482621,
+  "loggedFood" : {
+    "foodId" : 537162901,
+    "locale" : "en_GB",
+    "name" : "Strawberries",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [21174,21175,22688,22689,20929,20930,20840,20841,22690,22691,22692,22693,22694,226,180,147,389],
+    "calories" : 16,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 22692,
+      "name" : "medium (3.25 cm dia)",
+      "plural" : "medium (3.25 cm dia)"
+    },
+    "mealTypeId" : 6
+  },
+  "logDate" : "2018-06-15",
+  "favorite" : false
+},{
+  "logId" : 14739858720,
+  "loggedFood" : {
+    "foodId" : 537184002,
+    "locale" : "en_GB",
+    "name" : "Avocado",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [8,20929,20930,20951,20952,23787,23788,311,20852,20853,20982,226,180,147,389],
+    "calories" : 205,
+    "amount" : 128.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2018-06-15",
+  "favorite" : false
+},{
+  "logId" : 14740976000,
+  "loggedFood" : {
+    "foodId" : 537177147,
+    "locale" : "en_GB",
+    "name" : "Cherry Tomatoes",
+    "brand" : "Sainsbury's",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 12,
+    "amount" : 60.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2018-06-15",
+  "favorite" : false
+},{
+  "logId" : 14740706457,
+  "loggedFood" : {
+    "foodId" : 537153226,
+    "locale" : "en_GB",
+    "name" : "Baked Beans (150g)",
+    "brand" : "Heinz",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,43,226,180,147,389],
+    "calories" : 291,
+    "amount" : 400.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2018-06-15",
+  "favorite" : false
+},{
+  "logId" : 14735225273,
+  "loggedFood" : {
+    "foodId" : 537210452,
+    "locale" : "en_GB",
+    "name" : "Cashew Nuts",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [22300,22301,21113,20819,226,180,147,389],
+    "calories" : 54,
+    "amount" : 0.33,
+    "unit" : {
+      "id" : 20819,
+      "name" : "serving (28 g)",
+      "plural" : "serving (28 g)"
+    },
+    "mealTypeId" : 4
+  },
+  "logDate" : "2018-06-15",
+  "favorite" : false
+},{
+  "logId" : 14739177826,
+  "loggedFood" : {
+    "foodId" : 537145264,
+    "locale" : "en_GB",
+    "name" : "Pepper",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [204,288,319,179,20949,20950,21418,20929,20930,20825,91,256,279,226,180,147,389],
+    "calories" : 24,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 204,
+      "name" : "medium",
+      "plural" : "mediums"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2018-06-15",
+  "favorite" : false
+},{
+  "logId" : 14734781619,
+  "loggedFood" : {
+    "foodId" : 537145761,
+    "locale" : "en_GB",
+    "name" : "Aubergine",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [21467,21468,21469,21254,21470,226,180,147,389],
+    "calories" : 66,
+    "amount" : 0.5,
+    "unit" : {
+      "id" : 21469,
+      "name" : "eggplant, unpeeled",
+      "plural" : "eggplant, unpeeled"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2018-06-15",
+  "favorite" : false
+},{
+  "logId" : 14734463951,
+  "loggedFood" : {
+    "foodId" : 537145440,
+    "locale" : "en_GB",
+    "name" : "Courgette",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [20929,20930,319,204,179,311,21254,20949,20950,20918,226,180,147,389],
+    "calories" : 16,
+    "amount" : 0.5,
+    "unit" : {
+      "id" : 204,
+      "name" : "medium",
+      "plural" : "mediums"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2018-06-15",
+  "favorite" : false
+},{
+  "logId" : 14734560496,
+  "loggedFood" : {
+    "foodId" : 537161509,
+    "locale" : "en_GB",
+    "name" : "Carrots",
+    "brand" : "Sainsbury's",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 33,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2018-06-15",
+  "favorite" : false
+},{
+  "logId" : 14734733554,
+  "loggedFood" : {
+    "foodId" : 537185436,
+    "locale" : "en_GB",
+    "name" : "Chicken Breast Fillets",
+    "brand" : "Sainsbury's",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 276,
+    "amount" : 200.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2018-06-15",
+  "favorite" : false
+},{
+  "logId" : 14734711912,
+  "loggedFood" : {
+    "foodId" : 728043956,
+    "locale" : "en_GB",
+    "name" : "ISO Whey Zero",
+    "brand" : "BioTech USA",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 94,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 2
+  },
+  "logDate" : "2018-06-15",
+  "favorite" : false
+},{
+  "logId" : 14735646573,
+  "loggedFood" : {
+    "foodId" : 537158516,
+    "locale" : "en_GB",
+    "name" : "Wafer Thin Ham",
+    "brand" : "Sainsbury's Basics",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 108,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2018-06-15",
+  "favorite" : false
+},{
+  "logId" : 14734914174,
+  "loggedFood" : {
+    "foodId" : 537240331,
+    "locale" : "en_GB",
+    "name" : "Tortilla Wraps",
+    "brand" : "Netto",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,385],
+    "calories" : 172,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2018-06-15",
+  "favorite" : false
+},{
+  "logId" : 14734172615,
+  "loggedFood" : {
+    "foodId" : 541908193,
+    "locale" : "en_GB",
+    "name" : "Gouda Slices",
+    "brand" : "Tesco",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,311,226,180,147,389],
+    "calories" : 182,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2018-06-15",
+  "favorite" : false
+},{
+  "logId" : 14734262274,
+  "loggedFood" : {
+    "foodId" : 537227468,
+    "locale" : "en_GB",
+    "name" : "Chocolate Rice Cakes",
+    "brand" : "Aldi",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,20945,226,180,147,389],
+    "calories" : 82,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 6
+  },
+  "logDate" : "2018-06-14",
+  "favorite" : false
+},{
+  "logId" : 14734849798,
+  "loggedFood" : {
+    "foodId" : 537176048,
+    "locale" : "en_GB",
+    "name" : "Coconut Milk",
+    "brand" : "Alpro",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,209,189,128,364,349,91,256,279,401],
+    "calories" : 57,
+    "amount" : 285.0,
+    "unit" : {
+      "id" : 209,
+      "name" : "ml",
+      "plural" : "mls"
+    },
+    "mealTypeId" : 6
+  },
+  "logDate" : "2018-06-14",
+  "favorite" : false
+},{
+  "logId" : 14734368109,
+  "loggedFood" : {
+    "foodId" : 537162901,
+    "locale" : "en_GB",
+    "name" : "Strawberries",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [21174,21175,22688,22689,20929,20930,20840,20841,22690,22691,22692,22693,22694,226,180,147,389],
+    "calories" : 16,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 22692,
+      "name" : "medium (3.25 cm dia)",
+      "plural" : "medium (3.25 cm dia)"
+    },
+    "mealTypeId" : 6
+  },
+  "logDate" : "2018-06-14",
+  "favorite" : false
+},{
+  "logId" : 14729914540,
+  "loggedFood" : {
+    "foodId" : 728043956,
+    "locale" : "en_GB",
+    "name" : "ISO Whey Zero",
+    "brand" : "BioTech USA",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 94,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 6
+  },
+  "logDate" : "2018-06-14",
+  "favorite" : false
+},{
+  "logId" : 14730741765,
+  "loggedFood" : {
+    "foodId" : 541908193,
+    "locale" : "en_GB",
+    "name" : "Gouda Slices",
+    "brand" : "Tesco",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,311,226,180,147,389],
+    "calories" : 91,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2018-06-14",
+  "favorite" : false
+},{
+  "logId" : 14729778261,
+  "loggedFood" : {
+    "foodId" : 537240331,
+    "locale" : "en_GB",
+    "name" : "Tortilla Wraps",
+    "brand" : "Netto",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,385],
+    "calories" : 172,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2018-06-14",
+  "favorite" : false
+},{
+  "logId" : 14730481785,
+  "loggedFood" : {
+    "foodId" : 537243562,
+    "locale" : "en_GB",
+    "name" : "Balsamic Vinegar of Modena",
+    "brand" : "Tesco",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,209,189,128,364,349,91,256,279,401],
+    "calories" : 40,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2018-06-14",
+  "favorite" : false
+},{
+  "logId" : 14730751357,
+  "loggedFood" : {
+    "foodId" : 537184002,
+    "locale" : "en_GB",
+    "name" : "Avocado",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [8,20929,20930,20951,20952,23787,23788,311,20852,20853,20982,226,180,147,389],
+    "calories" : 205,
+    "amount" : 128.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2018-06-14",
+  "favorite" : false
+},{
+  "logId" : 14729980347,
+  "loggedFood" : {
+    "foodId" : 537161502,
+    "locale" : "en_GB",
+    "name" : "Egg (Whole)",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [179,22601,22071,22070,204,319,226,180,147,389],
+    "calories" : 65,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 204,
+      "name" : "medium",
+      "plural" : "mediums"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2018-06-14",
+  "favorite" : false
+},{
+  "logId" : 14728525785,
+  "loggedFood" : {
+    "foodId" : 537158516,
+    "locale" : "en_GB",
+    "name" : "Wafer Thin Ham",
+    "brand" : "Sainsbury's Basics",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 81,
+    "amount" : 0.75,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2018-06-14",
+  "favorite" : false
+},{
+  "logId" : 14729730011,
+  "loggedFood" : {
+    "foodId" : 537150374,
+    "locale" : "en_GB",
+    "name" : "Sweetpotato",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [21877,21925,21926,20921,20922,21590,226,180,147,389],
+    "calories" : 152,
+    "amount" : 1.12,
+    "unit" : {
+      "id" : 21877,
+      "name" : "medium (5 cm dia, 13 cm long, raw)",
+      "plural" : "medium (5 cm dia, 13 cm long, raw)"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2018-06-14",
+  "favorite" : false
+},{
+  "logId" : 14728544744,
+  "loggedFood" : {
+    "foodId" : 537177147,
+    "locale" : "en_GB",
+    "name" : "Cherry Tomatoes",
+    "brand" : "Sainsbury's",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 20,
+    "amount" : 100.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2018-06-14",
+  "favorite" : false
+},{
+  "logId" : 14730377773,
+  "loggedFood" : {
+    "foodId" : 740481598,
+    "name" : "Chicken and spinach and yoghurt",
+    "brand" : "Crussh",
+    "accessLevel" : "PRIVATE",
+    "units" : [304],
+    "calories" : 425,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "6N8QKV"
+  },
+  "logDate" : "2018-06-14",
+  "favorite" : false
+},{
+  "logId" : 14724510316,
+  "loggedFood" : {
+    "foodId" : 537162901,
+    "locale" : "en_GB",
+    "name" : "Strawberries",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [21174,21175,22688,22689,20929,20930,20840,20841,22690,22691,22692,22693,22694,226,180,147,389],
+    "calories" : 8,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 22692,
+      "name" : "medium (3.25 cm dia)",
+      "plural" : "medium (3.25 cm dia)"
+    },
+    "mealTypeId" : 2
+  },
+  "logDate" : "2018-06-14",
+  "favorite" : false
+},{
+  "logId" : 14725453027,
+  "loggedFood" : {
+    "foodId" : 728043956,
+    "locale" : "en_GB",
+    "name" : "ISO Whey Zero",
+    "brand" : "BioTech USA",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 94,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 2
+  },
+  "logDate" : "2018-06-14",
+  "favorite" : false
+}]

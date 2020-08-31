@@ -1,0 +1,2 @@
+wire_id,device_type,serial_number,enabled,fw_version
+0aa93da83b20,Versa,203BA83DA90A,false,APP32.70.8.0 BSL32.1.12 PERIPH|BT_RADIO|1.4.10|0 PERIPH|TOUCH|3.5.0|3 PERIPH|WIFI|2000.0.7|0 PERIPH|BT_NFC|48.1.28|0 PERIPH|SNSR_HUB|0.3.0|0

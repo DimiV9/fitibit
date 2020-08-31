@@ -1,0 +1,2 @@
+timestamp,event_name,email,location,ip,outcome,reason,application,device_info
+Sat Aug 22 08:43:12 UTC 2020,Login,dim.vardouniotis@gmail.com,"Thessaloniki, 54, Greece",94.68.137.230,SUCCESS,,Fitbit Accounts,"os_name: Mac OS,os_version: 10.15.4,browser_name: Chrome,browser_version: 84.0.4147.105,device_name: Mac OS"

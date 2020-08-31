@@ -1,0 +1,2 @@
+tracker_id,enabled_notification_types,on_right_hand,clock_face,enable_inactivity_alerts,last_updated_ia_time,last_reboot_time,payments_enabled,last_successful_wifi_connection_time,last_successful_wifi_connectionipv4addr,last_successful_wifi_connectionipv6addr,last_successful_wifi_connectionssid,live_data_disabled
+882882830,"[INCOMING_CALL, CALENDAR, TEXT_MESSAGE, APP_NOTIFICATIONS]",false,,true,2020-07-12T07:59:50.000Z,2019-09-16T15:25:23.000Z,false,2020-02-08T08:03:37.000Z,/192.168.0.39,,koulourakis,

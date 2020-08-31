@@ -1,0 +1,21 @@
+[{
+  "logId" : 14550841855,
+  "loggedFood" : {
+    "foodId" : 728043956,
+    "locale" : "en_GB",
+    "name" : "ISO Whey Zero",
+    "brand" : "BioTech USA",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 94,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2018-05-28",
+  "favorite" : false
+}]
